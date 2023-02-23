@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **multimodal AI, edge AI, software engineering and system design.**
 
-- 📫 How to reach me **nicola.massarenti@gmail.com**
+- 📫 How to reach me **nicola@nicolamassarenti.com**
 
 - ⚡ Fun fact **I'm a tamer of lions**
 
